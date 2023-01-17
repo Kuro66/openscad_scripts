@@ -1,8 +1,13 @@
+// ORIGINAL LICENSE
 // (c) 2019 Pavel Suchmann <pavel@suchmann.cz>
 // Licensed under the terms of "Creative Commons - Public Domain Dedication"
 //
 // Note the source code would be more succint with minkowski()
 // but its use is not recommended by Customizer's best practises.
+
+
+// THIS SCRIPT IS A REMIX OF THE CUSTOMIZABLE KEYCHAIN SCRIPT FOUND ON https://www.thingiverse.com/thing:3496798
+
 
 // your text
 label = "My Text";
