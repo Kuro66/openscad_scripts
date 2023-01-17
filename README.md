@@ -1,2 +1,2 @@
-# openscad_scripts
-A collection of my openscad scripts
+# Openscad scripts
+A collection of my openscad scripts and creations.
