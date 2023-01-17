@@ -1,3 +1,5 @@
+For the French version, see LISEZ-MOI.md.
+
 # Openscad scripts
 
 A collection of my openscad scripts and creations.
