@@ -1,3 +1,5 @@
+Pour la version anglaise, allez lire README.md.
+
 # Scripts openscad
 
 Une collection de mes scripts et créations openscad.
