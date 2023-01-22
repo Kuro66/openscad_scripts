@@ -12,6 +12,12 @@ I've added the possibility to make the letters go outwards instead of inwards. T
 
 The rest of the code was left untouched.
 
+![Keyring with text going outwards](/img/keychain_out.jpg)
+
+![Keyring with text going inwards](/img/keychain_in.jpg)
+
 ## support_alarme.scad
 
 This script allows the creation of a house-alarm holder. The height of the object is modifiable to fit different needs.
+
+![House-alarm holder rendering](/img/support_alarme.jpg)
