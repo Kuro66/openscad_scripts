@@ -12,6 +12,12 @@ J'ai ajouté la possibilité de faire ressortir le texte en relief au lieu qu'il
 
 Le reste du code n'a pas été modifié.
 
+![Porte-clefs texte ressortant](/img/keychain_out.jpg)
+
+![Porte-clefs texte rentrant](/img/keychain_in.jpg)
+
 ## support_alarme.scad
 
 Ce script permet la création d'un support pour alarme de maison. La hauteur de l'objet est modifiable pour accomoder différents besoins.
+
+![Support d'alarme](/img/support_alarme.jpg)
