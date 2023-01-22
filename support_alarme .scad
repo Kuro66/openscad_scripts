@@ -6,8 +6,8 @@ difference() {
 // rectangle de base
 cube (size = [58, 17, height]);
     // trous
-    translate ([12,8,0]) cylinder (h=25, r=2, $fn=50);
-    translate ([46,8,0]) cylinder (h=25, r=2, $fn=50);
+    translate ([12,8,0]) cylinder (h=height, r=2, $fn=50);
+    translate ([46,8,0]) cylinder (h=height, r=2, $fn=50);
 }
 
 // côté 1
